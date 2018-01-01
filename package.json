@@ -1,0 +1,22 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "*",
+    "gulp-minify-css": "*",
+    "gulp-webserver": "*",
+    "mockjs": "*",
+    "gulp-imagemin": "*",
+    "gulp-uglify": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}

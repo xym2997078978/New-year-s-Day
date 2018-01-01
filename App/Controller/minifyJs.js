@@ -1,0 +1,1 @@
+app.controller("imgController",["$scope","imgConfig",function(o,n){n.getJson("http://localhost:8080").then(function(n){o.imgArr=n},function(o){console.log(o)})}]);
